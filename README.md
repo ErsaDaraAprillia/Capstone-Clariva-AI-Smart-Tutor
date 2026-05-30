@@ -70,8 +70,6 @@ AI-SMART-FIRST/
 │
 ├── services/
 │   └── gemini_service.py
-│
-└── assets/
 ```
 
 ## ⚙️ Technologies Used
